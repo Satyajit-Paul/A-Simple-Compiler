@@ -1,0 +1,15 @@
+In IF Block !!!
+9 is assigned to a
+Switch Is Found !!!
+Variable is printed and the value is : 90
+Variable is printed and the value is : 9
+Variable is printed and the value is : 99
+Variable is printed and the value is : 99
+Variable is printed and the value is : 99
+Variable is printed and the value is : 99
+Variable is printed and the value is : 99
+Variable is printed and the value is : 99
+Variable is printed and the value is : 99
+Variable is printed and the value is : 99
+Variable is printed and the value is : 99
+Main Function Found !!!
